@@ -12,10 +12,3 @@ func main() {
 	shape.PrintShapeArea(square)
 	shape.PrintShapeArea(circle)
 }
-
-/*
-func PrintShapeArea(shape shape.Shape) {
-	fmt.Println(shape.Area())
-
-}
-*/
